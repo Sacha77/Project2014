@@ -2,5 +2,5 @@
 public class Main {
 
 	
-	int test = 3;
+	int test = 7;
 }
